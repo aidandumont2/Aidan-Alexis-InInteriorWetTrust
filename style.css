@@ -4,3 +4,22 @@ body{
     margin:0;
     height: max-content;
 }
+
+#Titre{
+    font-family: cursive;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    font-size: 400%;
+}
+.imgBox{
+    position: absolute;
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+#img{
+    height: 10%;
+    width: 10%;
+}
